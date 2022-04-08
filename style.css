@@ -23,7 +23,7 @@
 	align-items: center;
 	min-height: 100vh;
 
-	background: radial-gradient(#1f053a, #031408);
+	background: radial-gradient(#20043d, #05240e);
 	-webkit-animation: animateBG 8s linear infinite;
 	animation: animateBG 8s linear infinite;
 }
